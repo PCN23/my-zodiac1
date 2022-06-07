@@ -13,4 +13,4 @@ export default function Main({ zodiacs }) {
     </main>
   );
 }
-    
+    //here to be
